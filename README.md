@@ -12,7 +12,7 @@ The carousel used is [Owl Carousel](http://owlgraphic.com/owlcarousel/).
 
 
 ####View the theme here#####
-Click [here](139.59.5.189/geek-label) to view the demo:
+Click [here](http://139.59.5.189/geek-label) to view the demo:
 
 The Drupal 8 Version of the theme is attached in the repository. 
 
