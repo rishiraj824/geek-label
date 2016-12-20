@@ -7,7 +7,7 @@ Open Charity is a single-page theme with simple and responsive design built pure
 The theme is utilizes the Boostrap components like grids, columns, btn, img-responsive. 
 The website offers sleek and simple design pattern with Light font-weight of MuseoSans.
 The maps have been customized using [Snazzy Maps](http://snazzymaps.com). 
-The carousel used is [Owl Carousel](owlgraphic.com/owlcarousel/).
+The carousel used is [Owl Carousel](http://owlgraphic.com/owlcarousel/).
 
 
 
